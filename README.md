@@ -1,9 +1,9 @@
-## Hi there, I'm Lutfilah Dzaky - aka [LutfilahDz][YouTube]
+## Hi there, I'm Kurniawan Andi Santoso - aka [Sants][Linkedin]
 
 I'm a Student, if there is a mistake please guide me
 
-- 📚 I'm currently learning everything
-- ⭐️ For now my hobbies are Anime, Programming and Games
+- 📚 I'm currently learning about data analsyt
+- ⭐️ For now my hobbies are Anime, Programming and reading
 - ❤️ I hope I can help you
 - 💬 Want to ask something? ask me [here](https://t.me/lutfilahdzaky)
 
@@ -55,4 +55,4 @@ I'm a Student, if there is a mistake please guide me
     <a href="https://github.com/lutfilahdzaky"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=lutfilahdzaky&style=flat-square"></a>
 </p>
 
-[YouTube]: https://youtube.com/lutfilahdz?sub_confirmation=1
+[Linkedin]: https://www.linkedin.com/in/kurniawan-andi-20b5b0195/
